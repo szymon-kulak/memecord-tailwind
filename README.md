@@ -1,8 +1,7 @@
-# React + Vite
+# Memecord-Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clone of the Discord UI I built to learn [TailwindCSS](https://tailwindcss.com/). It's not functional in the slightest, this is a purely UI project.
 
-Currently, two official plugins are available:
+![A Screenshot of the UI](screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I quite enjoyed my time with Tailwind and I think I'm going to use it in pretty much any React project moving forward.
